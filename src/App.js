@@ -53,3 +53,9 @@ class App extends Component {
 }
 
 export default App;
+
+
+
+
+
+// https://gitlab.com/Ybrayym/assessment---react-photo-wall   -------> URL of the assessment!!!
